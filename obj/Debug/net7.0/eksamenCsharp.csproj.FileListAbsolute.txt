@@ -1,0 +1,14 @@
+C:\Users\moha1\eksamenCsharp\bin\Debug\net7.0\eksamenCsharp.exe
+C:\Users\moha1\eksamenCsharp\bin\Debug\net7.0\eksamenCsharp.deps.json
+C:\Users\moha1\eksamenCsharp\bin\Debug\net7.0\eksamenCsharp.runtimeconfig.json
+C:\Users\moha1\eksamenCsharp\bin\Debug\net7.0\eksamenCsharp.dll
+C:\Users\moha1\eksamenCsharp\bin\Debug\net7.0\eksamenCsharp.pdb
+C:\Users\moha1\eksamenCsharp\obj\Debug\net7.0\eksamenCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moha1\eksamenCsharp\obj\Debug\net7.0\eksamenCsharp.AssemblyInfoInputs.cache
+C:\Users\moha1\eksamenCsharp\obj\Debug\net7.0\eksamenCsharp.AssemblyInfo.cs
+C:\Users\moha1\eksamenCsharp\obj\Debug\net7.0\eksamenCsharp.csproj.CoreCompileInputs.cache
+C:\Users\moha1\eksamenCsharp\obj\Debug\net7.0\eksamenCsharp.dll
+C:\Users\moha1\eksamenCsharp\obj\Debug\net7.0\refint\eksamenCsharp.dll
+C:\Users\moha1\eksamenCsharp\obj\Debug\net7.0\eksamenCsharp.pdb
+C:\Users\moha1\eksamenCsharp\obj\Debug\net7.0\eksamenCsharp.genruntimeconfig.cache
+C:\Users\moha1\eksamenCsharp\obj\Debug\net7.0\ref\eksamenCsharp.dll
